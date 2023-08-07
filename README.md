@@ -1,1 +1,1 @@
-# Quiz Application
+# Background generator
